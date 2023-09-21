@@ -1,4 +1,4 @@
-<img src="img/sapofofo" alt="logosapo" align="right" />
+<img src="sapofofo.png" alt="logosapo" align="right" />
 
 # 🎃 Bem vindo ao meu perfil! 🎃
 
