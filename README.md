@@ -19,6 +19,7 @@ No momento estou estudando as seguintes tecnlogias:
 ## 🎨 Hobbies
 
 * 🎸 Gosto de tocar guitarra
+
 * ⛩️ Sou estudante de japonês, atualmente no 4º estágio
 
 ## 🎓 Formações
@@ -32,7 +33,7 @@ Sou formado como Técnico em Desenvolvimento de Sistemas naEtec Ilza Nascimento 
 
 ## 📸 Minhas redes sociais!
 
-<a href="https://www.linkedin.com/in/dfmaciel"> <img src="img/logo/logolinkedin" alt="logolinkedin"/> </a>
+<a href="https://www.linkedin.com/in/dfmaciel"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logolinkedin"/> </a>
 
 
 <!--
