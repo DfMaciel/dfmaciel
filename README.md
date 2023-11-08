@@ -4,6 +4,8 @@
 
 Oi! Meu nome é Davi Maciel, sou um estudante de Desenvolvimento de Software Multiplataforma na Fatec São José dos Campos.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliveiraPedro09&show_icons=true&theme=radical)
+
 ## 📚 Estudos
 
 No momento estou estudando as seguintes tecnlogias:
