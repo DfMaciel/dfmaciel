@@ -10,13 +10,7 @@ Oi! Meu nome é Davi Maciel, sou um estudante de Desenvolvimento de Software Mul
 
 No momento estou estudando as seguintes tecnlogias:
 
-* Python <img width=30 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="pythonlogo"/>
-
-* HTML <img width=30 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="htmllogo"/>
-  
-* CSS <img width=30 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="csslogo"/>
-
-* MYSQL <img width=40 height=30 src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysqllogo"/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,figma,linux,python,bootstrap,docker,git,mysql,php)](https://skillicons.dev)
 
 ## 🎨 Hobbies
 
