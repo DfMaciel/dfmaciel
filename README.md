@@ -7,8 +7,8 @@ Oi! Meu nome é Davi Maciel, sou um estudante de Desenvolvimento de Software Mul
 ## Sobre
 
 <p>
-<img height="180em" width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=DfMaciel&layout=compact&langs_count=16&theme=radical&title_color=FE428E" /> 
-<img height="180em" width=50% src="https://github-readme-stats.vercel.app/api?username=DfMaciel&show_icons=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DfMaciel&layout=compact&langs_count=16&theme=radical&title_color=FE428E" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DfMaciel&show_icons=true&theme=radical" />
 </p>
 
 ## 📚 Estudos
