@@ -1,10 +1,15 @@
-<img src="sapofofo.png" alt="logosapo" align="right" />
+<img src="sapofofo.png" alt="logosapo" align="right" height="200em"/>
 
 # 🎃 Bem vindo ao meu perfil! 🎃
 
 Oi! Meu nome é Davi Maciel, sou um estudante de Desenvolvimento de Software Multiplataforma na Fatec São José dos Campos.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DfMaciel&show_icons=true&theme=radical)
+## Sobre
+
+<p>
+<img height="180em" width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=DfMaciel&layout=compact&langs_count=16&theme=radical&title_color=FE428E" /> 
+<img height="180em" width=50% src="https://github-readme-stats.vercel.app/api?username=DfMaciel&show_icons=true&theme=radical" />
+</p>
 
 ## 📚 Estudos
 
