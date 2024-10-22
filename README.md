@@ -15,13 +15,13 @@ Oi! Meu nome é Davi Maciel, sou um estudante de Desenvolvimento de Software Mul
 
 No momento estou estudando as seguintes tecnlogias:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,aws,figma,linux,python,bootstrap,docker,git,mysql,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,aws,figma,linux,python,bootstrap,docker,git,mysql,php,java,spring,mongo,typescript,nodejs)](https://skillicons.dev)
 
 ## 🎨 Hobbies
 
 * 🎸 Gosto de tocar guitarra
 
-* ⛩️ Sou estudante de japonês, atualmente no 4º estágio
+* ⛩️ Sou estudante de japonês, atualmente no 6º estágio
 
 ## 🎓 Formações
 
