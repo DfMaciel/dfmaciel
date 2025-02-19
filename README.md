@@ -4,38 +4,65 @@
 
 Oi! Meu nome é Davi Maciel, sou um estudante de Desenvolvimento de Software Multiplataforma na Fatec São José dos Campos.
 
-## Sobre
+## Git Status
 
-<p>
-<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DfMaciel&layout=compact&langs_count=15&theme=ocean_dark&title_color=92D534" /> 
-<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=DfMaciel&show_icons=true&theme=ocean_dark" />
-</p>
+<div align="center">
+  <a> 
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=DfMaciel&show_icons=true&theme=ocean_dark" />
+  </a>
+  <a>
+    <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DfMaciel&layout=compact&langs_count=8&theme=ocean_dark&title_color=92D534" /> 
+  </a>
+</div>
 
 ## 📚 Estudos
 
-No momento estou estudando as seguintes tecnlogias:
+Tecnologias que tenho conhecimento ou estou estudando:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,aws,figma,linux,python,bootstrap,docker,git,mysql,php,java,spring,mongo,typescript,nodejs)](https://skillicons.dev)
+<p align="left">
+    <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=white&color=%232c097d">
+    <img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=white&color=%232c097d">
+    <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=white&color=%232c097d">
+    <img src="https://img.shields.io/badge/Bootstrap-151515?style=for-the-badge&logo=bootstrap&logoColor=white&color=%232c097d">
+    <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=white&color=%232c097d">
+    <img src="https://img.shields.io/badge/PHP-151515?style=for-the-badge&logo=php&logoColor=white&color=%232c097d">
+    <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=white&color=%232c097d">
+    <img src="https://img.shields.io/badge/Flask-151515?style=for-the-badge&logo=Flask&logoColor=white&color=%232c097d">
+    <img src="https://img.shields.io/badge/SpringBoot-151515?style=for-the-badge&logo=springboot&logoColor=white&color=%232c097d">
+    <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=white&color=%232c097d">
+    <img src="https://img.shields.io/badge/Node.js-151515?style=for-the-badge&logo=node.js&logoColor=white&color=%232c097d">
+    <img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=java&logoColor=white&color=%232c097d">
+    <img src="https://img.shields.io/badge/.NET-151515?style=for-the-badge&logo=dotnet&logoColor=white&color=%232c097d">
+    <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=white&color=%232c097d">
+    <img src="https://img.shields.io/badge/MongoDB-151515?style=for-the-badge&logo=mongodb&logoColor=white&color=%232c097d">
+    <img src="https://img.shields.io/badge/AWS-151515?style=for-the-badge&logo=amazon-aws&logoColor=white&color=%232c097d">
+    <img src="https://img.shields.io/badge/Docker-151515?style=for-the-badge&logo=docker&logoColor=white&color=%232c097d">
+    <img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=white&color=%232c097d">
+    <img src="https://img.shields.io/badge/Figma-151515?style=for-the-badge&logo=figma&logoColor=white&color=%232c097d">
+    <img src="https://img.shields.io/badge/Linux-151515?style=for-the-badge&logo=linux&logoColor=white&color=%232c097d">
+</p>
 
+
+<!-- 
 ## 🎨 Hobbies
 
 * 🎸 Gosto de tocar guitarra
 
 * ⛩️ Sou estudante de japonês, atualmente no 6º estágio
+-->
 
 ## 🎓 Formações
 
-Sou formado como Técnico em Desenvolvimento de Sistemas naEtec Ilza Nascimento Pintus, São José dos Campos - SP
+🎒 Sou formado como Técnico em Desenvolvimento de Sistemas na Etec Ilza Nascimento Pintus, São José dos Campos - SP
 
-* Planejar e desenvolver projetos de sistemas computacionais.
-* Documentar, construir e manter sistemas de informações para web.
-* Elaborar registros e planilhas de acompanhamento e controle de atividades.
-* Utilizar críterios e aplicar procedimentos na ánalise e problematização de processos produtivos e tecnológicos
+📖 Inglês avançado (TOEIC 930 - C1) 
+
+⛩️ Japonês básico (JLPT N5)
 
 ## 📸 Minhas redes sociais!
 
-<a href="https://www.linkedin.com/in/dfmaciel"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logolinkedin"/> </a>
-
+<a href="https://www.linkedin.com/in/dfmaciel"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logolinkedin"/></a>
+<a href="mailto:dfmacielcontato@gmail.com"> <img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white&color=%23EA4335" alt="logogmail"/></a>
 
 <!--
 **DfMaciel/dfmaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
